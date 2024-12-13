@@ -24,10 +24,10 @@ Feel free to reach out if you want to collaborate. It would be amazing if someon
         <img src="pictures/example_1.jpeg" alt="image1" width="300"/>
     </div>
     <div style="margin: 10px;">
-        <img src="pictures/example_1.jpeg" alt="image2" width="300"/>
+        <img src="pictures/example_2.jpeg" alt="image2" width="300"/>
     </div>
     <div style="margin: 10px;">
-        <img src="pictures/example_3.Jpeg" alt="image3" width="300"/>
+        <img src="pictures/example_3.jpeg" alt="image3" width="300"/>
     </div>
     <div style="margin: 10px;">
         <img src="pictures/example_4.png" alt="image3" width="300"/>
