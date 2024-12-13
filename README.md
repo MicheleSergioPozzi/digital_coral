@@ -1,7 +1,6 @@
 # Digital Coral
-<div style="text-align: center;">
-<img src="pictures/example_1.jpeg" alt="A digital coral"  width="300"/>
-</div>
+
+<img align="center" src="pictures/example_1.jpeg" alt="A digital coral"  width="300"/>
 
 *TL;DR: Python repository using differential growth to generate coral-like 3D shapes. This work aims to imitate [Urban Reef](https://www.urbanreef.nl/) algorithms. The algorithm differs in some ways from the basic differential growth.*
 
