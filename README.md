@@ -20,44 +20,9 @@ I think the code should be rewritten in a much cleaner way and there should be a
 Feel free to reach out if you want to collaborate. It would be amazing if someone could print some of these shapes perhaps on biodegrdable material!
 
 **Gallery**
-<div style="display: flex; flex-wrap: wrap; justify-content: center;">
-    <div style="margin: 10px;">
-        <img src="pictures/example_1.jpeg" alt="image1" width="300"/>
-    </div>
-    <div style="margin: 10px;">
-        <img src="pictures/example_2.jpeg" alt="image2" width="300"/>
-    </div>
-    <div style="margin: 10px;">
-        <img src="pictures/example_3.jpeg" alt="image3" width="300"/>
-    </div>
-    <div style="margin: 10px;">
-        <img src="pictures/example_4.png" alt="image3" width="300"/>
-    </div>
-    <div style="margin: 10px;">
-        <img src="pictures/example_5.png" alt="image3" width="300"/>
-    </div>
-    <div style="margin: 10px;">
-        <img src="pictures/example_6.png" alt="image3" width="300"/>
-    </div>
-    <div style="margin: 10px;">
-        <img src="pictures/example_7.png" alt="image3" width="300"/>
-    </div>
-    <div style="margin: 10px;">
-        <img src="pictures/example_8.png" alt="image3" width="300"/>
-    </div>
-    <div style="margin: 10px;">
-        <img src="pictures/example_9.png" alt="image3" width="300"/>
-    </div>
-    <div style="margin: 10px;">
-        <img src="pictures/example_10.png" alt="image3" width="300"/>
-    </div>
-    <div style="margin: 10px;">
-        <img src="pictures/example_11.png" alt="image3" width="300"/>
-    </div>
-    <div style="margin: 10px;">
-        <img src="pictures/example_12.png" alt="image3" width="300"/>
-    </div>
-    <div style="margin: 10px;">
-        <img src="pictures/example_13.png" alt="image3" width="300"/>
-    </div>
-</div>
+
+<img src="pictures/example_1.jpeg" alt="image1" width="300"/><img src="pictures/example_2.jpeg" alt="image2" width="300"/><img src="pictures/example_3.jpeg" alt="image3" width="300"/>
+<img src="pictures/example_4.png" alt="image3" width="300"/><img src="pictures/example_5.png" alt="image3" width="300"/><img src="pictures/example_6.png" alt="image3" width="300"/>
+<img src="pictures/example_7.png" alt="image3" width="300"/><img src="pictures/example_8.png" alt="image3" width="300"/><img src="pictures/example_9.png" alt="image3" width="300"/>
+<img src="pictures/example_10.png" alt="image3" width="300"/><img src="pictures/example_11.png" alt="image3" width="300"/><img src="pictures/example_12.png" alt="image3" width="300"/>
+<img src="pictures/example_13.png" alt="image3" width="300"/>
